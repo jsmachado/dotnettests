@@ -10,7 +10,7 @@ Things outside my comfort zone so far that went well:
 - Using git through command line instead of TFS and SVN;
 - Using git on github instead of visualstudio.com;
 - Deploying through 'dotnet' cli;
-
+- Deploy sample application to Azure using github;
 
 
 Things in line to be tested:

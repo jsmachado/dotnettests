@@ -1,0 +1,11 @@
+List of useful commands for me, used to work with Visual Studio on Windows machines.
+
+
+Publish, target Ubuntu 16.04
+dotnet publish -c release -r ubuntu.16.04-x64 -o ../published/
+
+
+
+
+
+

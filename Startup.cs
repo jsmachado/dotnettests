@@ -12,6 +12,7 @@ namespace dotnet
 {
     public class Startup
     {
+        // Commit test.
         public Startup(IHostingEnvironment env)
         {
             var builder = new ConfigurationBuilder()

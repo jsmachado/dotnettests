@@ -18,6 +18,8 @@ Things in line to be tested:
 - Create docker container with deployed application;
 - Upload docker container configured to dockerhub;
 - Deploy docker image to Azure;
+- Get nancyfx working on this platform;
+- Get akka.net working on this platform;
 
 
 
